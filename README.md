@@ -116,12 +116,12 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/KattaDev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KattaDev&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/KattaDev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KattaDev&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
@@ -130,28 +130,28 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/KattaDev/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=Background-generator&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/KattaDev/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=robofriends&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/KattaDev/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=Picture-Sharing-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/KattaDev/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=Chat-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+<a href="https://github.com/KattaDev/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=Quiz-App&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+<a href="https://github.com/KattaDev/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KattaDev&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
 
 ### My WakaTime Stats 📊:
