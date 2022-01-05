@@ -8,7 +8,7 @@
 
 
 - 🔋 I’m currently learning Flutter .
-- 📫 How to reach me: egammurodovabdujalil@gmail.com
+- 📫 How to reach me: tojiyevulugbek747@gmail.com
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KattaDev?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📚 &nbsp; When I am free, I read detective books 🕵️‍♂️. 
