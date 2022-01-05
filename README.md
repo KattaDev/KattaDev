@@ -9,7 +9,7 @@
 
 - 🔋 I’m currently learning Flutter .
 - 📫 How to reach me: egammurodovabdujalil@gmail.com
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Abdujalil7?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KattaDev?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📚 &nbsp; When I am free, I read detective books 🕵️‍♂️. 
 - ⚡ Fun fact: I use glasses 👓
@@ -39,7 +39,7 @@
 <p align="center">
 &nbsp; <a href="https://instagram.com/katta_dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
 &nbsp; <a href="mailto:tojiyevulugbek747@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://t.me/KattaDev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
+&nbsp; <a href="https://t.me/Ulugbek_1423" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
   
 </p>
 
